@@ -19,4 +19,4 @@ d) Compiling and debugging code
 Hardware requirements
 ---------------------
 Text editors: Require fewer hardware resources like memory, disk space, and processing power.
-IDEs: Require more memory, space, and fast processing.
+IDEs: Require more memory, space, and fast processing...
